@@ -1,0 +1,8 @@
+#valores de tipoAmbulancia: BASICA,UCI,NOMEDICALIZADA
+#valores de tipoUCI: CARDIOVASCULAR o PEDIATRICA
+#tipoAmbulancia--codigo---placa-----medico/enfermero------tipoUCI
+BASICA *20 *ABJ345 *Guillermo Rueda
+UCI *10 *CHI245 *Leopoldo Rojas *CARDIOVASCULAR
+UCI *30 *WER446 *Ana Maria Castillo *PEDIATRICA
+NOMEDICALIZADA *15 *SAD335 *Luis Mora
+0
